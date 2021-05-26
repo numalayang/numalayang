@@ -32,14 +32,13 @@
     <li>My hobbies are making miniature robots, movies, animation, and gaming.</li> -->
     <!-- <li>I live in Quezon City, NCR, Philippines</li> -->
 </ul>
-<h3>I have experience using these <b>Databases Management Software</b></h3>
+<h3>I have experience using these <b>Database Management Software</b></h3>
 <ul>    
     <li>Microsoft SQL Server</li>
     <li>MySQL</li>    
 </ul>
 
-
-
+<h2>Please email me at numalayang@gmail.com if you want like to see the projects I am currently working on or have put off.</h2>
 
 <!---
 numalayang/numalayang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

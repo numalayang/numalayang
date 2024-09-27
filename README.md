@@ -8,8 +8,8 @@
 <!-- <hr> -->
 <h2>About Me</h2>
 <ul>    
-    <li>I am a 23 year old Junior PHP Developer.</li>
-    <li>I studied BS Computer Science at University of Santo Tomas and Our Lady of Fatima Unviersty. I am currently waiting for my graduation</li>
+    <li>I am a 27 year old Junior PHP Developer.</li>
+    <li>I studied BS Computer Science at University of Santo Tomas. I transferred and graduated at Our Lady of Fatima Unviersty for the same Degree.</li>
     <li>I live in Quezon City, NCR, Philippines</li>
     <li>My hobbies are making miniature robots, movies, animation, and gaming.</li>
 </ul>
